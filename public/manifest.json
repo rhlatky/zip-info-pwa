@@ -1,6 +1,6 @@
 {
   "name": "zip-info-pwa",
-  "short_name": "zip-info-pwa",
+  "short_name": "ZipInfo",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "background_color": "#FFF",
+  "theme_color": "#3880FF"
 }
